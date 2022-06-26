@@ -1,5 +1,5 @@
-# Campground
-campground is web application where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was part of Colt Steele's web dev course on udemy.
+# TexasLife
+TexasLife is web application where users can create and review outdoor palces in Texas. In order to review or create a post, you must have an account. This project was edited based on part of Colt Steele's web dev course on udemy.
 This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.
 
 
